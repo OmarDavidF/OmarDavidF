@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img align="center" alt="github_used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarDavidF&langs_count=8&layout=compact&theme=radical"/>
 </div>  
                                                
-<h2>🚀 Skills .......................................................................................................... 💻 Workspace </h2>
+<h2>🚀 Skills ....................................................................................................... 💻 Workspace </h2>
 <div style="display: inline_block">
   <img align="center" height="40" width="50" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" height="40" width="50" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
