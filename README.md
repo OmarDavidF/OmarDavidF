@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 -->
 <a href="https://github.com/OmarDavidF"/>
 <div>
-  <img align="center" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=OmarDavidF&show_icons=true&theme=radical"/>
+  <img align="center" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=OmarDavidF&count_private=true&show_icons=true&theme=radical"/>
+  <img align="center" alt="github_" src=""/>
 </div>  
 
 ### 🚀 Skills 
