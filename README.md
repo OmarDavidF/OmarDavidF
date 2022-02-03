@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img align="center" height="40" width="50" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" height="40" width="50" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
   <img align="center" height="40" width="50" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  
+  ## 💻 Workspace 
   <img align="right" height="40" width="50" alt="neovim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> 
   <img align="right" height="40" width="50" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
   <img align="right" height="40" width="50" alt="debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg"/>
