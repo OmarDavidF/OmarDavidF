@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img height="180em" alt="github_used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarDavidF&langs_count=8&layout=compact&theme=radical"/>
 </div>  
                                                
-<h2>🚀 Skills ........................................................................................................... 💻 Workspace </h2>
+<h2>🚀 Skills ............................................................................................................. 💻 Workspace </h2>
 <div style="display: inline_block"><br/>
   <img align="center" height="40" width="50" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" height="40" width="50" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="right" height="40" width="50" alt="debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg"/>
 </div>
 
-## 💻 Workspace 
+## 📱 Contact 
 <div style="display: inline_block"><br/>
   <img align="center" height="40" width="50" alt="neovim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> 
   <img align="center" height="40" width="50" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
