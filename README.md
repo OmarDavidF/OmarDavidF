@@ -21,7 +21,6 @@ Here are some ideas to get you started:
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 </div>
-
 ### 💻 Workspace 
 <div style="display: inline_block"><br/>
   <img align="center" alt="amd-radeon" src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
