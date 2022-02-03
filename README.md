@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 ## 💻 Workspace 
 <div style="display: inline_block"><br/>
   <img align="center" height="40" width="50" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> 
+  <img align="center" height="40" width="50" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 </div>
