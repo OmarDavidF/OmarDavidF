@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 📱 Contact 
 <div style="display: inline_block"><br/>
-  <img align="center" height="40" width="50" alt="neovim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> 
+  <img align="center" height="40" width="50" alt="neovim" src="https://iconduck.com/iconduck/static/images/backgrounds/checkered.png"/> 
   <img align="center" height="40" width="50" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
   <img align="center" height="40" width="50" alt="debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg"/>
 </div>
