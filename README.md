@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>  
                                                
 <h2>🚀 Skills ............................................................................................................. 💻 Workspace </h2>
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <img align="center" height="40" width="50" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" height="40" width="50" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" height="40" width="50" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 📱 Contact 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="email" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-  <img align="center" height="40" width="50" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
-  <img align="center" height="40" width="50" alt="debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg"/>
+  <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img align="center" alt="fac" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg"/>
 </div>
