@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img align="center" alt="github_used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarDavidF&langs_count=8&layout=compact&theme=radical"/>
 </div>  
 
-### 🚀 Skills 
+## 🚀 Skills 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 </div>
 
-### 💻 Workspace 
+## 💻 Workspace 
 <div style="display: inline_block"><br/>
   <img align="center" alt="amd-radeon" src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 </div>
