@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/OmarDavidF"/>
-<div>
+<div style="display: iniline_block"W>
   <img align="center" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=OmarDavidF&count_private=true&show_icons=true&theme=radical"/>
-  <img align="center" alt="github_" src=""/>
+  <img align="center" alt="github_" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarDavidF&layout=compact"/>
 </div>  
 
 ### 🚀 Skills 
