@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   <img align="center" height="40" width="50" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" height="40" width="50" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" height="40" width="50" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
-  <img align="center" height="40" width="50" alt="git" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" height="40" width="50" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
 
 ## 💻 Workspace 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="amd-radeon" src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+  <img align="center" height="40" width="50" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> 
 </div>
