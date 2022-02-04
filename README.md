@@ -41,7 +41,7 @@ Here are some ideas to get you started:
    <a href="https://www.linkedin.com/in/omar-david-forero-gallego-5b2716203" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 <a href="https://github.com/OmarDavidF" target="_blank"><img target="_blank" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/></a>
 <a href= "https://www.facebook.com/omardavid.forerogallego"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"/></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:omardforero@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/OmarDavidF/OmarDavidF/blob/output/github-contribution-grid-snake.svg)
  
