@@ -12,18 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-## :dart: Social
-<div style="display: inline_block">
-  <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img align="center" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  <img align="right" height="110" width="130" alt="facebook" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif"/>
-  
-  ![Snake animation](https://github.com/OmarDavidF/OmarDavidF/blob/output/github-contribution-grid-snake.svg)
-</div>
--->
-
 <div align="center">
   <a href="https://github.com/OmarDavidF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarDavidF&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -32,23 +20,25 @@ Here are some ideas to get you started:
 
 <h2>🚀 Skills &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 💻 Workspace </h2>
- <div style="display: inline_block"><br>
-  <img height="30" width="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" height="30" width="40" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" height="30" width="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" height="30" width="40" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" height="30" width="40" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img align="center" height="30" width="40" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
-  <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                           <img align="center" height="30" width="40" alt="neovim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> 
-  <img align="center" height="30" width="40" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
-  <img align="center" height="30" width="40" alt="debian"  src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg"/>
-  <img align="right" alt="programando" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif">
-</div>
   
-  ##
- 
+ <div style="display: inline_block">
+  <img height="30" width="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="30" width="40" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="30" width="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="30" width="40" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="30" width="40" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img height="30" width="40" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
+  <img height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                           <img height="30" width="40" alt="neovim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> 
+  <img height="30" width="40" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+  <img height="30" width="40" alt="debian"  src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg"/>
+  <img align="right" alt="programando" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif">
+</div> 
+  
+  <h2>:dart: Social</h2>
+  
 <div> 
+
   <img  target="_blank" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
   <img  target="_blank" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img  target="_blank" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
