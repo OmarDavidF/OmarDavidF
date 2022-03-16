@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                         <img align="center" height="30" width="40" alt="neovim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> 
   <img align="center" height="30" width="40" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
   <img align="center" height="30" width="40" alt="debian"  src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg"/>
-  <img align="right" alt="programando" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif">
+  <img align="right" alt="programando" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/GuRuLWOGo0CI/giphy.gif">
 </div> 
   
   ##
